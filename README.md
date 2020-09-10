@@ -1,4 +1,6 @@
 # hello-world
 Learning Github
 
-This does not have "about me" lines.
+My hobbies:
+1. Doing jig-saw puzzles
+2. Spend time in nature
